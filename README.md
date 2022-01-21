@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Parmar </h1>
 
 - 🔭 I’m currently working on **NODE JS & REACT  JS**
 - 📫 How to reach me: 
