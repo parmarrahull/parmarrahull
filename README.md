@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Parmar </h1>
 
 - 🔭 I’m currently working on **NODE JS & REACT  JS**
-- 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/rahulparmar0/)
-  - <parmarrahul1974@gmail.com>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
