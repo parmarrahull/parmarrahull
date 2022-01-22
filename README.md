@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Parmar </h1>
 
-- 🔭 I’m currently working on **NODE JS & REACT  JS**
+- 🔭 I’m currently working on **REACT  JS & ** NODE JS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
