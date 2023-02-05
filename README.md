@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Parmar </h1>
-
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="400px" align="right" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parmarrahull&label=Profile%20views&color=0e75b6&style=flat" alt="parmarrahull" /> </p>
 - 🔭 I’m currently working on **REACT JS**
 
 <h3 align="left">Connect with me:</h3>
