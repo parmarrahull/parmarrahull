@@ -2,8 +2,14 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="gif" width="400px" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmarrahull&label=Profile%20views&color=0e75b6&style=flat" alt="parmarrahull" /> </p>
 
-- 🔭 I’m currently working on **REACT JS**
+- 🔭 My personal site [https://imrahul.netlify.app/]
+- 👨‍💻 Currently working as Full Stack Developer in India.
+
+- 🤹 Best skill in **JavaScript, TypeScript, React-JS, Node-JS, Express-JS, MongoDB**
+
 - 📫 How to reach me **parmarrahul1974@gmail.com**
+
+- ⚡ Goal **Everyone has a dream in his life, my dream is to make my bucket list empty, I want to learn new things every day, Improve my skills in the best way to help all people.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
